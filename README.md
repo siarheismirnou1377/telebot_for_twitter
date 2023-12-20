@@ -63,11 +63,11 @@ $ git clone https://github.com/siarheismirnou1377/telebot_google_form_sync.git
 ```sh
 $ pip3 install -r requirements.txt
 ```
-- Открыть файл main.py. Вставить, полученный токен у отца ботов.
-- Запустить файл main.py в консоли, с уже запущенным виртуальным окружением.
+- Открыть файл bot_config.py. Вставить, полученный токен у отца ботов.
+- Запустить файл first_telegram_bot.py в консоли, с уже запущенным виртуальным окружением.
 Например для Linux Ubuntu:
 ```sh
-$ python3 main.py
+$ python3 first_telegram_bot.py
 ```
 
 
